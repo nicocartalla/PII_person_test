@@ -1,0 +1,9 @@
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/bin/Debug/netstandard2.0/Library.deps.json
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/bin/Debug/netstandard2.0/Library.dll
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/bin/Debug/netstandard2.0/Library.pdb
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/obj/Debug/netstandard2.0/Library.csprojAssemblyReference.cache
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfoInputs.cache
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/obj/Debug/netstandard2.0/Library.AssemblyInfo.cs
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/obj/Debug/netstandard2.0/Library.csproj.CoreCompileInputs.cache
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/obj/Debug/netstandard2.0/Library.dll
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/obj/Debug/netstandard2.0/Library.pdb

@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/Program.csproj": {}
+  },
+  "projects": {
+    "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/Library.csproj",
+        "projectName": "Library",
+        "projectPath": "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/Library.csproj",
+        "packagesPath": "/home/nicocartalla/.nuget/packages/",
+        "outputPath": "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nicocartalla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/Program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/Program.csproj",
+        "projectName": "Program",
+        "projectPath": "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/Program.csproj",
+        "packagesPath": "/home/nicocartalla/.nuget/packages/",
+        "outputPath": "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nicocartalla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/Library.csproj": {
+                "projectPath": "/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

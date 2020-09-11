@@ -1,0 +1,15 @@
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/bin/Debug/netcoreapp2.1/Program.deps.json
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/bin/Debug/netcoreapp2.1/Program.runtimeconfig.json
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/bin/Debug/netcoreapp2.1/Program.runtimeconfig.dev.json
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/bin/Debug/netcoreapp2.1/Program.dll
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/bin/Debug/netcoreapp2.1/Program.pdb
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/bin/Debug/netcoreapp2.1/Library.dll
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/bin/Debug/netcoreapp2.1/Library.pdb
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.csprojAssemblyReference.cache
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.AssemblyInfoInputs.cache
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.AssemblyInfo.cs
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.csproj.CoreCompileInputs.cache
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.csproj.CopyComplete
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.dll
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.pdb
+/home/nicocartalla/Documentos/UCU/Segundo Semestre/Programación_II/Clase1109/PII_person_test/src/Program/obj/Debug/netcoreapp2.1/Program.genruntimeconfig.cache
